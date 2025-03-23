@@ -6,7 +6,7 @@ import pandas as pd
 import numpy as np
 import csv
 
-api_key = "af2e09fb77412ef59a63d898762b07c752aa134c47563928cc4251f2896f3842"
+api_key = "{{{{{{{{{{2"
 
 # upload file .zip
 url = "https://www.virustotal.com/api/v3/files"
